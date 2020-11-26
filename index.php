@@ -7,6 +7,13 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	
+	<h1>hola soy Jhord</h1>
+	<?php
+	         echo "hola soy iestp canchis";
+
+
+
+	?>
+
 </body>
 </html>
